@@ -1,0 +1,24 @@
+.field-for-tags {
+    width: 500px;
+    outline: none;
+    border: 1px solid;
+    border-radius: 6px;
+    padding: 6px;
+
+}
+
+.entry-field {
+    width: 100px;
+    outline: none;
+    cursor: pointer;
+    border: none;
+}
+
+.container-for-tags {
+    width: 500px;
+    margin: 0 3px;
+    background-color: blue;
+    border: 1px solid #000;
+    border-radius: 3px;
+    color: #fff;
+}
